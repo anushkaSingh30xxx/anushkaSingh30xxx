@@ -3,7 +3,7 @@
 <h4 align="left">🎓 I have completed my Btech in Computer Science and Engineering from ABES Engineering College, Ghaziabad</h4>
 <h4 align="left">🌱 I am currently learning Django.</h4>
 <h4 align="left">📚 Practices DSA and problem solving regularly.</h4>
-<h4 align="left">Connect with me: anushka.x.singh@gmail.com</h4>
+<h4 align="left">Connect with me: **anushka.x.singh@gmail.com**</h4>
 <p align="left">
 <a href="https://linkedin.com/in/anushka-singh-103572223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-singh-103572223" height="30" width="40" /></a>
 <a href="https://instagram.com/anushka_singh30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anushka_singh30_" height="30" width="40" /></a>
