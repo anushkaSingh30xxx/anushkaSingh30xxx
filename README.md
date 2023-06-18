@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anushka Singh</h1>
 
-- <h4 align="left">🎓 I have completed my Btech in Computer Science and Engineering from ABES Engineering College, Ghaziabad</h4>
-- <h4 align="left">🌱 I am currently learning Django.</h4>
-- <h4 align="left">📚 Practices DSA and problem solving regularly.</h4>
 
+
+- 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
+
+- 📚 I’m currently learning Django.
+
+- ⚡️ Understanding and practicing DSA everyday.
 
 - 📫 How to reach me **anushka.x.singh@gmail.com**
+
+
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
