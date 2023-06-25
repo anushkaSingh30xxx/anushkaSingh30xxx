@@ -4,8 +4,6 @@
 
 - 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
 
-- 📚 I’m currently learning Django.
-
 - ⚡️ Understanding and practicing DSA everyday.
 
 - 📫 How to reach me **anushka.x.singh@gmail.com**
