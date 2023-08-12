@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anushka Singh</h1>
+<h1 align="left">Hi 👋, I'm Anushka Singh</h1>
+<h3 align="left">A Tech Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaSingh30xx&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaSingh30xx" /> </p>
 
-
-- 🎓 I have completed my B.Tech in Computer Science and Engineering from ABES Engineering College, Ghaziabad.
+- 🌱 I’m currently learning **ReactJS**
 
 - ⚡️ Understanding and practicing DSA everyday.
 
