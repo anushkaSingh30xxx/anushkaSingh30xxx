@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/anushka-singh-103572223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushka-singh-103572223" height="30" width="40" /></a>
 <a href="https://instagram.com/anushka_singh30_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anushka_singh30_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anushkaxsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anushkaxsingh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
