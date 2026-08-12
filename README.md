@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Anushka Singh</h1>
 <h3 align="left">Technical Consultant @Birlasoft.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkaSingh30xx&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaSingh30xx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anushkaSingh30xx&label=Profile%20views&color=0e75b6&style=flat" alt="anushkaSingh30xx" /> </p>
 
 <h3 align="left">🚀 About Me</h3>
 
